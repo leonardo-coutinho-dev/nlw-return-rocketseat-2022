@@ -4,7 +4,7 @@ interface ButtonProps {
 
 function Button(props: ButtonProps) {
   const {text} = props;
-  return <button className="bg-blue-500 px-2 h-10 text-neutral-50">{text ?? "Default Value"}</button>
+  return <button className="bg-[#8257e6] px-2 h-10 text-neutral-50 hover:bg-violet-700 transition-colors">{text ?? "Default Value"}</button>
 }
 
 function App() {

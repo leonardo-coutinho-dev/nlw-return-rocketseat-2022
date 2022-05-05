@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .div-container {
-  @apply flex gap-2 p-2 m-2 bg-green-200;
+  @apply flex gap-2 p-2 m-2 bg-violet-50;
 }

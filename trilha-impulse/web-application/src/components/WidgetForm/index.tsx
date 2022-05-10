@@ -6,6 +6,7 @@ import bugImageURL from '../../assets/bug.svg';
 import ideaImageURL from '../../assets/idea.svg';
 import thoughtImageURL from '../../assets/thought.svg';
 import { FeedbackTypeStep } from "./Steps/FeedbackTypeStep";
+import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
 
 /**
  * Object.entries(feedbackTypes) =>
@@ -55,7 +56,7 @@ export function WidgetForm () {
       {!feedbackType ? (
         <FeedbackTypeStep onFeedbackTypeChanged={setFeedbackType}/>
       ) : (
-        <p>Hello World!</p>
+        <FeedbackContentStep />
       )}
       <footer className="text-xs text-neutral-400">
         Feito com ♥ pela <a className="underline underline-offset-2" href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a>

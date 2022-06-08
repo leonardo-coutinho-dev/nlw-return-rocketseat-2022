@@ -1,11 +1,22 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { StyleSheet, View } from 'react-native';
+import Container from './src/components/Container';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={{padding: '20px'}}>Meu nome é Leonardo Coutinho dos Santos, moro na cidade de Salvador, no estado da Bahia e sou programador. Atualmente, estou estudando desenvolvimento de aplicativos usando react native.</Text>
-      <Text>Esse é o meu primeiro aplicativo! great hack</Text>
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
       <StatusBar style="auto" />
     </View>
   );
@@ -14,8 +25,9 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#ABA08E',
     alignItems: 'center',
     justifyContent: 'center',
+    padding: 10,
   },
 });

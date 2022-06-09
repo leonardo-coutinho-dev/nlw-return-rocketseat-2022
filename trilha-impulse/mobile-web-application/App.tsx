@@ -7,16 +7,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
-      <Container />
       <StatusBar style="auto" />
     </View>
   );
@@ -25,7 +15,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#ABA08E',
+    backgroundColor: 'red',
     alignItems: 'center',
     justifyContent: 'center',
     padding: 10,

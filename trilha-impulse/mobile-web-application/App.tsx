@@ -1,23 +1,31 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
-import Container from './src/components/Container';
+import { View } from 'react-native';
+import { Widget } from './src/components/Widget';
+import { theme } from './src/theme';
+import AppLoading from 'expo-app-loading';
+import { useFonts, Inter_400Regular, Inter_500Medium } from '@expo-google-fonts/inter';
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    Inter_400Regular, Inter_500Medium
+  });
+  if (!fontsLoaded) {
+    return <AppLoading />;
+  }
   return (
-    <View style={styles.container}>
-      <Container />
-      <StatusBar style="auto" />
+    <View 
+      style={{
+        flex: 1,
+        backgroundColor: theme.colors.background
+      }}
+    >
+      <Widget />
+      <StatusBar 
+        style="auto" 
+        backgroundColor="transparent"
+        translucent
+      />
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: 'red',
-    alignItems: 'center',
-    justifyContent: 'center',
-    padding: 10,
-  },
-});

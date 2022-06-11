@@ -38,7 +38,8 @@ function Widget() {
         backgroundStyle={styles.modal}
         handleIndicatorStyle={styles.indicator}
       >
-        <Form feedbackType={'IDEA'} />
+        <Form feedbackType={'OTHER'} />
+        {/* <Options /> */}
       </BottomSheet>
     </>
   );

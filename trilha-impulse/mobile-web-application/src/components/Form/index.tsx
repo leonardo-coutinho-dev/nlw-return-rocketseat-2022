@@ -14,6 +14,7 @@ import { theme } from '../../theme';
 import {feedbackTypes} from '../../utils/feedbackTypes';
 import {FeedbackType} from '../Widget/index';
 import { ScreenshotButton } from '../ScreenshotButton';
+import { Button } from '../Button';
 
 interface Props {
   feedbackType: FeedbackType; 
@@ -54,10 +55,11 @@ export function Form({ feedbackType } : Props) {
 
       <View  style={styles.footer}>
         <ScreenshotButton 
-          screenshot=""
+          screenshot="https://www.github.com/leonardo-coutinho-dev.png"
           onTakeShot={() => {}}
           onRemoveShot={() => {}}
         />
+        <Button isLoading={true}/>
       </View>
 
     </View>

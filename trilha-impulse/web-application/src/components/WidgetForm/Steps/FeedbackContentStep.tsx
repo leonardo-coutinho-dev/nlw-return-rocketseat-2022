@@ -27,10 +27,7 @@ export function FeedbackContentStep ({
   async function handleSubmitFeedback(event: FormEvent) {
     event.preventDefault();
     setIsSendingFeedback(true);
-    // console.log({
-    //   screenshot,
-    //   comment,
-    // })
+
     await api.post('/feedbacks', {
       type: feedbackType,
       comment,

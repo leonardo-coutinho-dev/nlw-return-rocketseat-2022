@@ -18,7 +18,7 @@ import {feedbackTypes} from '../../utils/feedbackTypes';
 import {FeedbackType} from '../Widget/index';
 import { ScreenshotButton } from '../ScreenshotButton';
 import { Button } from '../Button';
-import { api } from '../libs/api';
+import { api } from '../../libs/api';
 
 interface Props {
   feedbackType: FeedbackType;

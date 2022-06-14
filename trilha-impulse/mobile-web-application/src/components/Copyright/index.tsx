@@ -9,7 +9,7 @@ export function Copyright() {
   return (
     <View>
       <Text style={styles.text}>
-        Feito com ♥ [te amo, Bruna]
+        Feito com ♥ [te amo, Bruna] ~Leo
       </Text>
     </View>
   );

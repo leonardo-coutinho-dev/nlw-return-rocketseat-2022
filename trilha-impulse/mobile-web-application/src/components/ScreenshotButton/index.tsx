@@ -6,7 +6,7 @@ import { styles } from './styles';
 import { theme } from '../../theme';
 
 interface Props {
-  screenshot: string | null;
+  screenshot: string | null | undefined; // undefined somente para parar de acusar erro
   onTakeShot: () => void;
   onRemoveShot: () => void;
 }

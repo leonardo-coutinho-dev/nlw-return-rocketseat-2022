@@ -41,8 +41,8 @@ function Widget() {
         backgroundStyle={styles.modal}
         handleIndicatorStyle={styles.indicator}
       >
-        {/* <Options /> */}
-        <Form feedbackType={'OTHER'} />
+        <Options />
+        {/* <Form feedbackType={'OTHER'} /> */}
         {/* <Success /> */}
       </BottomSheet>
     </>

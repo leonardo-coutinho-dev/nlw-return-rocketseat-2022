@@ -30,7 +30,8 @@ export const styles = StyleSheet.create({
    input: {
     height: 112,
     padding: 12,
-    marginBottom: 8,
+    marginTop: 8,
+    marginBottom: 16,
     borderRadius: 4,
     borderWidth: 1,
     borderColor: theme.colors.stroke,

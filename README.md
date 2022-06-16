@@ -10,7 +10,7 @@ Projeto desenvolvido durante o evento NLW Return da Rocketseat, maio/2022.
   
   É notório destacar que na versão web foi feito um tratamento das questões de acessibilidade (oferecendo ao usuário controle total da navegação via teclado). Veja a seguir os comandos:
   
-  TAB: Pular;
+  <strong>TAB:</strong> Pular;
   ENTER/ESPAÇO: Acessar;
   
   Com apenas duas dessas teclas, você consegue navegar por todas as janelas;

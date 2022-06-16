@@ -17,7 +17,7 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   
   Aplicação web deployada e com acesso via link:
   
-  https://nlw-return-rocketseat-2022.vercel.app/
+  https://nlw-return-rocketseat-2022-leonardo-coutinho-dev.vercel.app/
   
   II. Tecnologias/Ferramentas utilizadas: 
   

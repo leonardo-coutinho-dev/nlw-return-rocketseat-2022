@@ -11,7 +11,7 @@ Projeto desenvolvido durante o evento NLW Return da Rocketseat, maio/2022.
   É notório destacar que na versão web foi feito um tratamento das questões de acessibilidade (oferecendo ao usuário controle total da navegação via teclado). Veja a seguir os comandos:
   
   <strong>TAB:</strong> Pular;
-  ENTER/ESPAÇO: Acessar;
+  <strong>ENTER/ESPAÇO:</strong> Acessar;
   
   Com apenas duas dessas teclas, você consegue navegar por todas as janelas;
   
@@ -21,7 +21,7 @@ Projeto desenvolvido durante o evento NLW Return da Rocketseat, maio/2022.
   
   II. Tecnologias usadas: 
   
-  Frontend: ReactJS, Typescript, TailwindCSS, Headless UI, …
-  Backend: Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ..
-  Mobile: React Native, React Native Gesture Handler (trabalhando com gestos), Reanimated (animações), Phosphor React Native (ícones), …
-  Hospedagem: Frontend na Vercel e Backend na Railway.
+  <strong>Frontend:</strong> ReactJS, Typescript, TailwindCSS, Headless UI, …
+  <strong>Backend:</strong> Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ..
+  <strong>Mobile:</strong> React Native, React Native Gesture Handler (trabalhando com gestos), Reanimated (animações), Phosphor React Native (ícones), …
+  <strong>Hospedagem:</strong> Frontend na Vercel e Backend na Railway.

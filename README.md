@@ -1,10 +1,10 @@
 # nlw-return-rocketseat-2022
 
-Projeto desenvolvido durante o evento NLW Return da Rocketseat, maio/2022.
+Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Rocketseat</strong>, maio/2022.
 
-- Aplicação desenvolvida: 
+- <strong>Aplicação desenvolvida:</strong> 
 
-  I. Página da web com um “widget”, um botão que ao ser pressionado abre uma janela com 3 outros botões, oferecendo ao usuário acesso a 3 outras janelas, que são 3 opções de envio de um feedback, sendo elas: bug, ideia e outro. Acessando uma dessas opções, o usuário é levado a uma outra janela, de acordo com a opção escolhida, e tem a opção de tirar um print da tela (sem precisar salvar o arquivo na máquina) e enviar esse arquivo, juntamente com um texto, para uma conta de e-mail, com o objetivo de sugerir uma alteração no site, relatar um bug, ou simplesmente elogiar um serviço oferecido;
+  I. <strong>Página da web</strong> com um <strong>“widget”</strong>, um botão que ao ser pressionado abre uma janela com 3 outros botões, oferecendo ao usuário acesso a 3 outras janelas, que são 3 opções de envio de um feedback, sendo elas: bug, ideia e outro. Acessando uma dessas opções, o usuário é levado a uma outra janela, de acordo com a opção escolhida, e tem a opção de tirar um print da tela (sem precisar salvar o arquivo na máquina) e enviar esse arquivo, juntamente com um texto, para uma conta de e-mail, com o objetivo de sugerir uma alteração no site, relatar um bug, ou simplesmente elogiar um serviço oferecido;
   
   Também desenvolvida aplicação na versão mobile, integrada com o backend, utilizando React Native;
   

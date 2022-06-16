@@ -10,7 +10,7 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   
   É notório destacar que na versão web foi feito um tratamento das questões de acessibilidade (oferecendo ao usuário controle total da navegação via teclado). Veja a seguir os comandos:
   
-  <strong>TAB:</strong> Pular;
+  <strong>TAB:</strong> Pular; <br />
   <strong>ENTER/ESPAÇO:</strong> Acessar;
   
   Com apenas duas dessas teclas, você consegue navegar por todas as janelas;
@@ -21,7 +21,7 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   
   II. Tecnologias usadas: 
   
-  <strong>Frontend:</strong> ReactJS, Typescript, TailwindCSS, Headless UI, …
-  <strong>Backend:</strong> Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ..
-  <strong>Mobile:</strong> React Native, React Native Gesture Handler (trabalhando com gestos), Reanimated (animações), Phosphor React Native (ícones), …
+  <strong>Frontend:</strong> ReactJS, Typescript, TailwindCSS, Headless UI, … <br />
+  <strong>Backend:</strong> Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ... <br />
+  <strong>Mobile:</strong> React Native, React Native Gesture Handler (trabalhando com gestos), Reanimated (animações), Phosphor React Native (ícones), … <br />
   <strong>Hospedagem:</strong> Frontend na Vercel e Backend na Railway.

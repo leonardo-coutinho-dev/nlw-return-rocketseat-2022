@@ -19,7 +19,7 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   
   https://nlw-return-rocketseat-2022.vercel.app/
   
-  II. Tecnologias usadas: 
+  II. Tecnologias/Ferramentas utilizadas: 
   
   <strong>Frontend:</strong> ReactJS, Typescript, TailwindCSS, Headless UI, … <br />
   <strong>Backend:</strong> Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ... <br />

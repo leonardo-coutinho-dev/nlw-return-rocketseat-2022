@@ -30,4 +30,4 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   
   https://www.linkedin.com/in/leonardo-coutinho-programador/
   
-  [instruções sobre como rodar a aplicação na sua máquina]
+  <i>[instruções sobre como rodar a aplicação na sua máquina]</i>

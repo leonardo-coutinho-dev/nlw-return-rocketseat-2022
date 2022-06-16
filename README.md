@@ -25,3 +25,7 @@ Projeto desenvolvido durante o evento <strong>NLW Return</strong> da <strong>Roc
   <strong>Backend:</strong> Node.js, SOLID, Testes automatizados, Prisma, Jest, Typescript, ... <br />
   <strong>Mobile:</strong> React Native, React Native Gesture Handler (trabalhando com gestos), Reanimated (animações), Phosphor React Native (ícones), … <br />
   <strong>Hospedagem:</strong> Frontend na Vercel (https://vercel.com/solutions/react) e Backend na Railway (https://railway.app/).
+  
+  Meu perfil no linkedin:
+  
+  https://www.linkedin.com/in/leonardo-coutinho-programador/
